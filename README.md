@@ -1,7 +1,7 @@
 # Konichiwa 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://tenor.com/pt-BR/view/itachi-gif-18300557">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/ArturMoreiraDeCarvalho/ArturMoreiraDeCarvalho/blob/main/assets/itachi.gif">
 </div>
 
 </br>
