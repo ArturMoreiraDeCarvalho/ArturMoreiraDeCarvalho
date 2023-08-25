@@ -93,7 +93,8 @@ Se você quiser entrar em contato comigo sobre qualquer coisa, seja alguma dúvi
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=ArturMoreiraDeCarvalho&&show_icons=true&theme=radical"/>
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturMoreiraDeCarvalho&layout=compact&langs_count=16&theme=great-gatsby"/>
   </a>
   </p>
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
-*************
