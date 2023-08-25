@@ -64,17 +64,17 @@
 
 Se você quiser entrar em contato comigo sobre qualquer coisa, seja alguma dúvida ou apenas para sair e conversar ou quiser jogar juntos, basta me enviar uma mensagem 😉.
 
-<a href="mailto:arturmais123@gmail.com">
+<a target="_blank" href="mailto:arturmais123@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
-<a href="">
+<a target="_blank" href="https://www.linkedin.com/in/artur-moreira-de-carvalho-57b2a028a/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </br>
 </br>
 </br>
 </a>
 
-<a href="https://steamcommunity.com/profiles/76561198172081017/">
+<a target="_blank" href="https://steamcommunity.com/profiles/76561198172081017/">
   <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
 </a>
  </p>
