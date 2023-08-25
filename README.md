@@ -13,7 +13,7 @@
 
 ### - Tenho 21 anos e estudo Analise e Desenvolvimento de Sistemas na PUC
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/ArturMoreiraDeCarvalho/ArturMoreiraDeCarvalho/blob/main/assets/itachi.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/ArturMoreiraDeCarvalho/ArturMoreiraDeCarvalho/blob/main/assets/02c0c400904938c3f9f57eacb8743fa3.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
