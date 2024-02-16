@@ -17,7 +17,7 @@
 
 ### - Estudando :
 - ✨ Front End
-- ✨ Javascript, HTML, CSS e Java
+- ✨ Javascript, HTML, CSS , Java e React
 
 ### - Hobbies : 
 - ✨ Jogar Videogame
