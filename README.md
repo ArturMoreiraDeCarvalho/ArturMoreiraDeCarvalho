@@ -11,19 +11,41 @@
 
 # About ME 💬 :
 
-### - Tenho 21 anos e estudo Analise e Desenvolvimento de Sistemas na PUC
+### - Tenho 23 anos e estudo Analise e Desenvolvimento de Sistemas na PUC
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/ArturMoreiraDeCarvalho/ArturMoreiraDeCarvalho/blob/main/assets/02c0c400904938c3f9f57eacb8743fa3.gif">
 
-### - Estudando :
-- ✨ Front End
-- ✨ Javascript, HTML, CSS , Java e React
+### 💻 **Estudando & Praticando Hoje**
 
-### - Hobbies : 
-- ✨ Jogar Videogame
-- ✨ Assistir Anime
-- ✨ Ler Light Novels
-- ✨ Jogar Volei
+* **Front-End:** React, JavaScript (ES6+), HTML5, CSS3/Tailwind
+* **Back-End:** PHP (8+), Node.js básico, Java (Spring Boot)
+* **Banco de Dados:** SQL (Oracle / MySQL), PL/SQL, MongoDB introdutório
+* **Testes & Qualidade:** Cypress E2E, PHPUnit, Jest
+* **Dev Ops & Ferramentas:** Docker, Git/GitHub, CI ( GitHub Actions )
+* **Conceitos Extras:** REST APIs, Design Responsivo, Clean Code, Agile/Scrum
+
+### 🛠️ **Habilidades de Destaque**
+
+* Automação de testes robusta que resiste a pequenas mudanças de UI
+* Refatoração de código legado sem quebrar funcionalidades existentes
+* Criação de scripts SQL complexos para migração de dados em massa
+* Comunicação clara (português 🇧🇷 / inglês 🇬🇧) e espírito de equipe
+
+### 🌱 **Em Aprendizado Contínuo**
+
+* TypeScript & Next.js
+* Design System com Storybook
+* Cloud Basics (AWS | Azure)
+* Boas práticas de Segurança (OWASP Top 10)
+
+### 🎮 **Hobbies & Paixões**
+
+* Jogar videogame (CS 2, RPGs, metroidvanias)
+* Assistir animes & ler light novels (de Fate a Frieren)
+* Mestrar/participar de mesas de **Dungeons & Dragons**
+* Jogar vôlei nas horas vagas
+* Criar prompts e brincar com IA para arte e geração de imagens
+
 
 </br>
 </br>
