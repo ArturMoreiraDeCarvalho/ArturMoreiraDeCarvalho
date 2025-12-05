@@ -32,14 +32,6 @@ Formando em Análise e Desenvolvimento de Sistemas — **PUC Minas 2025**
 ### Aprendendo agora
 Next.js 15 • Arquitetura hexagonal • AWS • IAs
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArturMoreiraDeCarvalho/ArturMoreiraDeCarvalho/main/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/ArturMoreiraDeCarvalho/ArturMoreiraDeCarvalho/main/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
-
 <br/>
 
 <p align="center">
