@@ -1,4 +1,4 @@
-<!-- Banner Itachi animado (roda automático) -->
+<!-- Banner Itachi (roda automático) -->
 <img src="https://raw.githubusercontent.com/ArturMoreiraDeCarvalho/ArturMoreiraDeCarvalho/main/assets/itachi.gif" alt="Itachi" width="100%"/>
 
 <h1 align="center">Oi, eu sou o Artur Moreira</h1>
@@ -10,12 +10,12 @@
 </p>
 
 ### Sobre mim
-Desenvolvedor Júnior no **Grupo PZM** desde 2024 → promovido em agosto/2025.  
-Trabalho diariamente com **PHP 8 + Laravel**, **Oracle PL/SQL**, **React**, **Cypress** e **Docker + GitHub Actions**.  
-Já entreguei:
-- Redução de 25% no tempo de relatórios críticos
+Desenvolvedor Júnior no **Grupo PZM** desde 2024 (promovido em ago/2025) e apaixonado em aprender tudo sobre IAs.  
+Trabalho com **PHP 8 + Laravel**, **Oracle PL/SQL**, **React**, **Cypress E2E** e **Docker + GitHub Actions**.  
+Principais entregas até agora:
+- Redução de 25% no tempo de execução de relatórios críticos
 - Pipelines CI/CD sem downtime
-- Testes E2E que sobrevivem a mudanças de UI e etc
+- Testes automatizados robustos
 
 Formando em Análise e Desenvolvimento de Sistemas — **PUC Minas 2025**
 
@@ -29,31 +29,26 @@ Formando em Análise e Desenvolvimento de Sistemas — **PUC Minas 2025**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-### Foco atual
-- Next.js 15 + App Router  
-- Arquitetura hexagonal em Laravel  
-- AWS (ECS/RDS/Lambda)  
+### Aprendendo agora
+Next.js 15 • Arquitetura hexagonal • AWS • IAs
 
-<!-- JOGO DA COBRINHA ANIMADO COM SEU GRÁFICO DE CONTRIBUIÇÕES -->
+<!-- COBRINHA CORRIGIDA E FUNCIONANDO 100% -->
 ![Snake animation](https://raw.githubusercontent.com/ArturMoreiraDeCarvalho/ArturMoreiraDeCarvalho/output/github-contribution-grid-snake-dark.svg)
 
 <br/>
 
-<!-- Stats + Linguagens mais usadas -->
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturMoreiraDeCarvalho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturMoreiraDeCarvalho&layout=compact&langs_count=10&theme=tokyonight"/>
 </p>
 
-<!-- GIF de código rodando automático -->
+<!-- GIF de código (roda automático) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArturMoreiraDeCarvalho/ArturMoreiraDeCarvalho/main/assets/d170c4a28d1552c8382fadb824d6d3e1.gif" width="600"/>
+  <img src="https://raw.githubusercontent.com/ArturMoreiraDeCarvalho/ArturMoreiraDeCarvalho/main/assets/d170c4a28d1552c8382fadb824d6d3e1.gif" width="650"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArturMoreiraDeCarvalho&label=Visitas%20no%20perfil&color=ff6b6b&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ArturMoreiraDeCarvalho&label=Visitas%20no%20perfil&color=ff6b6b&style=flat" />
 </p>
 
-<p align="center">
-  <i>“Não é o commit que faz o dev… é a consistência”</i>
-</p>
+<p align="center"><i>“Consistência > Intensidade”</i></p>
