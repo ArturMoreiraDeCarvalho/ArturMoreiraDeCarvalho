@@ -19,6 +19,7 @@ Meu foco é transformar requisitos em software claro, testável e sustentável, 
 
 ## Projetos públicos
 
+- [Portfólio web](https://arturmoreiradecarvalho.github.io/artur-portfolio/) — apresentação profissional, experiência, stack e projetos.
 - [Data Quality CLI](https://github.com/ArturMoreiraDeCarvalho/python-data-quality-cli) — validação de CSV, regras de qualidade, relatórios JSON, testes e CI em Python.
 - [Task Health API](https://github.com/ArturMoreiraDeCarvalho/node-rest-api-healthcheck) — API REST em Node.js com validação, testes de integração, Docker e contrato OpenAPI.
 
