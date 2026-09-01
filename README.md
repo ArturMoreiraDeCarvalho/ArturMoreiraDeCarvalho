@@ -1,57 +1,34 @@
-<!-- Banner Itachi (roda automático) -->
-<img src="https://raw.githubusercontent.com/ArturMoreiraDeCarvalho/ArturMoreiraDeCarvalho/main/assets/itachi.gif" alt="Itachi" width="100%"/>
-
-
-<h1 align="center">Oi, eu sou o Artur Moreira</h1>
-<h3 align="center">Desenvolvedor Full-Stack Júnior • PHP 8 • Laravel • React • PL/SQL</h3>
-
+<h1 align="center">Artur Moreira de Carvalho</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/artur-moreira-de-carvalho3336"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:arturmais123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  Desenvolvedor Backend Júnior • Full Stack Developer
 </p>
-
-
-### Sobre mim
-Desenvolvedor Júnior no **Grupo PZM** desde 2024 (promovido em ago/2025) e apaixonado em aprender tudo sobre IAs.  
-Trabalho com **PHP 8 + Laravel**, **Oracle PL/SQL**, **React**, **Cypress E2E** e **Docker + GitHub Actions**.  
-Principais entregas até agora:
-- Redução de 25% no tempo de execução de relatórios críticos
-- Pipelines CI/CD sem downtime
-- Testes automatizados robustos
-
-
-Formando em Análise e Desenvolvimento de Sistemas — **PUC Minas 2025**
-
-
-### Tech Stack
-
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
-
-### Aprendendo agora
-Next.js 15 • Arquitetura hexagonal • AWS • IAs
-
-
-<br/>
-
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturMoreiraDeCarvalho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturMoreiraDeCarvalho&layout=compact&langs_count=10&theme=tokyonight"/>
+  <a href="https://www.linkedin.com/in/artur-moreira-de-carvalho3336/">LinkedIn</a> •
+  <a href="https://github.com/ArturMoreiraDeCarvalho">GitHub</a>
 </p>
 
+## Sobre mim
 
-<!-- GIF de código (roda automático) -->
+Sou desenvolvedor de software com foco em backend e experiência prática em aplicações web, dados e automações. Atualmente atuo no Grupo PZM, trabalhando na evolução e sustentação de sistemas financeiros multi-tenant.
 
-## Projetos de portfólio
+Tenho experiência com PHP 8 e Laravel, Python, Node.js, APIs REST, Oracle/PLSQL, MySQL, testes automatizados, Docker, Git, GitHub Actions e CI/CD. Também desenvolvo interfaces e integrações com JavaScript, TypeScript e React.
 
-- [Data Quality CLI](https://github.com/ArturMoreiraDeCarvalho/python-data-quality-cli) — validação de CSV, regras de qualidade e relatórios JSON em Python.
-- [Task Health API](https://github.com/ArturMoreiraDeCarvalho/node-rest-api-healthcheck) — API REST em Node.js com validação, testes, Docker e OpenAPI.
+Meu foco é transformar requisitos em software claro, testável e sustentável, com atenção à qualidade, performance, observabilidade e evolução contínua do produto.
+
+## Projetos públicos
+
+- [Data Quality CLI](https://github.com/ArturMoreiraDeCarvalho/python-data-quality-cli) — validação de CSV, regras de qualidade, relatórios JSON, testes e CI em Python.
+- [Task Health API](https://github.com/ArturMoreiraDeCarvalho/node-rest-api-healthcheck) — API REST em Node.js com validação, testes de integração, Docker e contrato OpenAPI.
+
+## Tecnologias
+
+`PHP` `Laravel` `Python` `Node.js` `JavaScript` `TypeScript` `React` `Oracle PL/SQL` `MySQL` `REST APIs` `Docker` `GitHub Actions` `CI/CD` `Cypress` `PHPUnit` `pytest`
+
+## Em evolução
+
+Arquitetura hexagonal • DDD • AWS • observabilidade • segurança de aplicações • IA aplicada ao desenvolvimento
+
+> Os projetos deste perfil são repositórios públicos de portfólio e estudo, com documentação, testes e licença para facilitar a avaliação técnica.
+
