@@ -1,35 +1,32 @@
-<h1 align="center">Artur Moreira de Carvalho</h1>
+# Artur Moreira de Carvalho
 
-<p align="center">
-  Desenvolvedor Backend Júnior • Full Stack Developer
-</p>
+**Desenvolvedor Backend Júnior · Dados financeiros, automação e IA aplicada**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/artur-moreira-de-carvalho3336/">LinkedIn</a> •
-  <a href="https://github.com/ArturMoreiraDeCarvalho">GitHub</a>
-</p>
+[Portfólio e demonstrações](https://arturmoreiradecarvalho.github.io/artur-portfolio/) · [LinkedIn](https://www.linkedin.com/in/artur-moreira-de-carvalho3336/)
 
-## Sobre mim
+Atuo no **Grupo PZM**, desenvolvendo aplicações financeiras e contábeis com **PHP/Laravel, SQL e Oracle**. Trabalho com conciliação, validação de importações, relatórios e investigação de divergências nos dados. Estou concluindo Análise e Desenvolvimento de Sistemas na PUC Minas.
 
-Sou desenvolvedor de software com foco em backend e experiência prática em aplicações web, dados e automações. Atualmente atuo no Grupo PZM, trabalhando na evolução e sustentação de sistemas financeiros multi-tenant.
+## PERKUS — meu case de backend e IA aplicada
 
-Tenho experiência com PHP 8 e Laravel, Python, Node.js, APIs REST, Oracle/PLSQL, MySQL, testes automatizados, Docker, Git, GitHub Actions e CI/CD. Também desenvolvo interfaces e integrações com JavaScript, TypeScript e React.
+Concebi e implementei integralmente o **PERKUS**, assistente de conciliação contábil em desenvolvimento no PZMWeb. Ele combina contexto da tela com inferência semântica restrita para selecionar respostas candidatas. O backend mantém autorização, escopo das consultas e acesso aos dados, com validação e fallback.
 
-Meu foco é transformar requisitos em software claro, testável e sustentável, com atenção à qualidade, performance, observabilidade e evolução contínua do produto.
+**O que isso demonstra:** regras de negócio, integração de sistemas, engenharia de contexto e uso controlado de IA.
 
-## Projetos públicos
+[**Explore o case e os vídeos no portfólio →**](https://arturmoreiradecarvalho.github.io/artur-portfolio/#perkus)
 
-- [Portfólio web](https://arturmoreiradecarvalho.github.io/artur-portfolio/) — apresentação profissional, experiência, stack e projetos.
-- [Data Quality CLI](https://github.com/ArturMoreiraDeCarvalho/python-data-quality-cli) — validação de CSV, regras de qualidade, relatórios JSON, testes e CI em Python.
-- [Task Health API](https://github.com/ArturMoreiraDeCarvalho/node-rest-api-healthcheck) — API REST em Node.js com validação, testes de integração, Docker e contrato OpenAPI.
+O case público apresenta o problema, minha contribuição e materiais de demonstração revisados. Código corporativo e dados internos não são publicados. O projeto está em desenvolvimento; produção e resultados operacionais não são apresentados como comprovados.
 
-## Tecnologias
+## Código público para avaliação
 
-`PHP` `Laravel` `Python` `Node.js` `JavaScript` `TypeScript` `React` `Oracle PL/SQL` `MySQL` `REST APIs` `Docker` `GitHub Actions` `CI/CD` `Cypress` `PHPUnit` `pytest`
+| Projeto | O que você pode avaliar |
+| --- | --- |
+| [**TrilhaDocs**](https://github.com/ArturMoreiraDeCarvalho/trilhadocs) | Python CLI: inventários JSONL, tamanho e SHA-256, ZIPs e manifestos, verificação independente. Demonstração sintética. |
+| [**Data Quality CLI**](https://github.com/ArturMoreiraDeCarvalho/python-data-quality-cli) | Validação de CSV, duplicidades, campos vazios e datas; relatórios JSON, pytest e GitHub Actions. |
+| [**Task Health API**](https://github.com/ArturMoreiraDeCarvalho/node-rest-api-healthcheck) | API REST didática em Node.js, armazenamento em memória, testes, Docker e OpenAPI. |
+| [**Portfólio web**](https://github.com/ArturMoreiraDeCarvalho/artur-portfolio) | Apresentação dos cases com HTML/CSS, responsividade e navegação acessível. |
 
-## Em evolução
+**Na experiência profissional:** PHP/Laravel, SQL/Oracle, sistemas financeiros e contábeis, validação de importações e Cypress.
 
-Arquitetura hexagonal • DDD • AWS • observabilidade • segurança de aplicações • IA aplicada ao desenvolvimento
+**Nos projetos públicos:** Python/pytest, qualidade de dados, automação documental, Node.js/REST, Docker e GitHub Actions.
 
-> Os projetos deste perfil são repositórios públicos de portfólio e estudo, com documentação, testes e licença para facilitar a avaliação técnica.
-
+Busco oportunidades júnior em backend ou desenvolvimento de software, com interesse em dados financeiros, automação e integração controlada de IA. Disponível para remoto no Brasil ou híbrido em Belo Horizonte.
