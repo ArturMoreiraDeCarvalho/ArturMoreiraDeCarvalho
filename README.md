@@ -12,7 +12,9 @@ Concebi e implementei integralmente o **PERKUS**, assistente de conciliação co
 
 **O que isso demonstra:** regras de negócio, integração de sistemas, engenharia de contexto e uso controlado de IA.
 
-[**Explore o case e os vídeos no portfólio →**](https://arturmoreiradecarvalho.github.io/artur-portfolio/#perkus)
+[**Explore o case →**](https://arturmoreiradecarvalho.github.io/artur-portfolio/#perkus) · [**Assista à demonstração — 35 segundos →**](https://arturmoreiradecarvalho.github.io/artur-portfolio/#demonstracoes)
+
+A demonstração usa dados e nomes fictícios e percorre contexto, fila de aprovação, capa, Raio-X e Pre-Flight. O projeto está em desenvolvimento.
 
 O case público apresenta o problema, minha contribuição e materiais de demonstração revisados. Código corporativo e dados internos não são publicados. O projeto está em desenvolvimento; produção e resultados operacionais não são apresentados como comprovados.
 
