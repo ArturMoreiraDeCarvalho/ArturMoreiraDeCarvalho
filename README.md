@@ -15,7 +15,7 @@ Uso Python para automatizar validação e curadoria de dados e para criar ferram
 - **Backend:** regras de negócio contábeis, isolamento por cliente (tenant), autorização no servidor, reautenticação para ações críticas e consultas SQL em Oracle (views, sequences, scripts de migração).
 - **Dados financeiros e contábeis:** importação de balancetes com verificação de duplicidade, validação de entrada, relatórios e exportação para Excel, indicadores de conciliação.
 - **Qualidade:** testes automatizados com PHPUnit/Pest, Cypress e pytest. Introduzi o Cypress no projeto (configuração, comandos e testes E2E de login e aprovação).
-- **IA aplicada:** projetei e desenvolvo o PERKUS, um assistente de conciliação contábil com núcleo determinístico e um modelo de IA externo usado com limites claros (detalhes abaixo).
+- **IA aplicada:** projetei e desenvolvo um assistente de conciliação contábil com núcleo determinístico e um modelo de IA externo usado com limites claros (detalhes abaixo).
 - **Desenvolvimento assistido por IA:** regras e contexto para agentes de código, um servidor MCP local com ferramentas somente leitura e um grafo de conhecimento do código em SQLite. São ferramentas internas e não estão publicadas.
 
 ## Stack
@@ -25,7 +25,7 @@ Uso Python para automatizar validação e curadoria de dados e para criar ferram
 | Trabalho | PHP 8, Laravel, PHP legado, Oracle SQL, JavaScript, Python (scripts e ferramentas), PHPUnit/Pest, Cypress, Docker (ambiente local), Git |
 | Projetos públicos | Python 3.11+, pytest, ruff, pydantic, typer, Node.js, OpenAPI, Docker, GitHub Actions |
 
-## Case principal: PERKUS
+## Case principal: assistente de conciliação contábil
 
 Assistente de conciliação contábil dentro da plataforma do Grupo PZM. Código proprietário: aqui descrevo só o problema, a arquitetura e as decisões.
 
@@ -36,7 +36,7 @@ Assistente de conciliação contábil dentro da plataforma do Grupo PZM. Código
 - **Meu papel:** projetei a arquitetura e desenvolvo o módulo como único desenvolvedor, com desenvolvimento assistido por agentes de IA.
 - **Status:** em desenvolvimento. Ainda não foi implantado em produção.
 
-[Ler o case completo no portfólio →](https://arturmoreiradecarvalho.github.io/artur-portfolio/#perkus)
+[Ler o case completo no portfólio →](https://arturmoreiradecarvalho.github.io/artur-portfolio/#assistente-conciliacao)
 
 ## Projetos públicos
 
@@ -57,6 +57,6 @@ Busco oportunidades júnior em backend ou desenvolvimento de software, de prefer
 
 Junior software developer at PZM Enterprise (Grupo PZM) in Belo Horizonte, Brazil. I work on the backend of a multi-tenant SaaS platform for accounting reconciliation, using PHP 8/Laravel, legacy PHP and Oracle SQL. I use Python for data validation, data curation and developer tooling.
 
-My main project is **PERKUS**, an accounting reconciliation assistant. I designed its architecture and I am the only developer on the module, working with AI coding agents. Its core is deterministic: rules, lexical retrieval over a curated knowledge base, and queries over each tenant's own data with server-side access control. An external AI model is used only to classify intent, flag prompt-injection risk and break ties between candidate answers. Data is masked before it reaches the model, and every call has a timeout, a circuit breaker and a deterministic fallback. It is still in development and has not been deployed to production.
+My main project is an **accounting reconciliation assistant**. I designed its architecture and I am the only developer on the module, working with AI coding agents. Its core is deterministic: rules, lexical retrieval over a curated knowledge base, and queries over each tenant's own data with server-side access control. An external AI model is used only to classify intent, flag prompt-injection risk and break ties between candidate answers. Data is masked before it reaches the model, and every call has a timeout, a circuit breaker and a deterministic fallback. It is still in development and has not been deployed to production.
 
 Public code: [TrilhaDocs](https://github.com/ArturMoreiraDeCarvalho/trilhadocs) (Python CLI for verifiable packaging of accounting documents), [Data Quality CLI](https://github.com/ArturMoreiraDeCarvalho/python-data-quality-cli) and [Task Health API](https://github.com/ArturMoreiraDeCarvalho/node-rest-api-healthcheck) (study projects). English level: intermediate.
