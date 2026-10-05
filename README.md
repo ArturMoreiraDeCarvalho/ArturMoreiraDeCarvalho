@@ -13,11 +13,11 @@ Desenvolvo o backend de uma plataforma SaaS multi-tenant de conciliação contá
 - **Python:** scripts de validação e curadoria de dados e ferramentas de desenvolvimento.
 - **Desenvolvimento assistido por agentes de IA:** escrevo as regras e o contexto que os agentes de código seguem. Criei um servidor MCP local, somente leitura, e um grafo de conhecimento do código (ferramentas internas, não publicadas).
 
-## Case: assistente de conciliação contábil
+## Case: Assistente de Contabilidade com IA
 
-Projetei a arquitetura e desenvolvo, como único desenvolvedor, um assistente de conciliação contábil com IA aplicada sob controles. O núcleo é determinístico: regras, recuperação lexical em uma base de conhecimento curada e consultas Oracle aos dados do próprio cliente, com permissões resolvidas no servidor. Um modelo de IA externo só classifica a intenção da pergunta, sinaliza risco de prompt injection e desempata respostas candidatas, sempre sobre dados mascarados e com fallback determinístico. Está em desenvolvimento e ainda não foi implantado em produção. O código é proprietário.
+Projetei a arquitetura e desenvolvo, como único desenvolvedor, o Assistente de Contabilidade com IA, um sistema de apoio à conciliação contábil. O núcleo é determinístico: regras, recuperação lexical em uma base de conhecimento curada e consultas Oracle aos dados do próprio cliente, com permissões resolvidas no servidor. Um modelo de IA externo só classifica a intenção da pergunta, sinaliza risco de prompt injection e desempata respostas candidatas, sempre sobre dados mascarados e com fallback determinístico. Está em desenvolvimento e ainda não foi implantado em produção. O código é proprietário.
 
-[Ler o case no portfólio →](https://arturmoreiradecarvalho.github.io/artur-portfolio/#assistente-conciliacao)
+[Ler o case no portfólio →](https://arturmoreiradecarvalho.github.io/artur-portfolio/#assistente-conciliacao) · [Ver a demonstração em vídeo (35 s, dados fictícios) →](https://arturmoreiradecarvalho.github.io/artur-portfolio/#demonstracao)
 
 ## Projetos públicos
 
@@ -45,6 +45,6 @@ Projetei a arquitetura e desenvolvo, como único desenvolvedor, um assistente de
 
 Junior software developer at PZM Enterprise (Grupo PZM) in Belo Horizonte, Brazil. I work on the backend of a multi-tenant SaaS platform for accounting reconciliation, using PHP 8/Laravel, legacy PHP and Oracle SQL, with automated tests (PHPUnit/Pest, Cypress). I use Python for data validation, data curation and developer tooling, and I work daily with AI coding agents.
 
-My main project is an accounting reconciliation assistant. I designed its architecture and I am the only developer on the module. Its core is deterministic; an external AI model only classifies intent, flags prompt-injection risk and breaks ties between candidate answers, on masked data and with a deterministic fallback. It is still in development and has not been deployed to production. English level: intermediate.
+My main project is the AI Accounting Assistant, a support system for accounting reconciliation ([35-second demo video](https://arturmoreiradecarvalho.github.io/artur-portfolio/en/#demo), fictional data). I designed its architecture and I am the only developer on the module. Its core is deterministic; an external AI model only classifies intent, flags prompt-injection risk and breaks ties between candidate answers, on masked data and with a deterministic fallback. It is still in development and has not been deployed to production. English level: intermediate.
 
 [Portfolio (EN)](https://arturmoreiradecarvalho.github.io/artur-portfolio/en/) · [Résumé (PDF)](https://arturmoreiradecarvalho.github.io/artur-portfolio/assets/cv/artur-moreira-de-carvalho-resume-en.pdf) · [LinkedIn](https://www.linkedin.com/in/artur-moreira-de-carvalho3336/)
