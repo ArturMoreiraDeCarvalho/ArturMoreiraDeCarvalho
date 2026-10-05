@@ -22,7 +22,7 @@ Uso Python para automatizar validação e curadoria de dados e para criar ferram
 
 | Onde | Tecnologias |
 | --- | --- |
-| Trabalho | PHP 8, Laravel, PHP legado, Oracle SQL, JavaScript, PHPUnit/Pest, Cypress, Docker (ambiente local), Git |
+| Trabalho | PHP 8, Laravel, PHP legado, Oracle SQL, JavaScript, Python (scripts e ferramentas), PHPUnit/Pest, Cypress, Docker (ambiente local), Git |
 | Projetos públicos | Python 3.11+, pytest, ruff, pydantic, typer, Node.js, OpenAPI, Docker, GitHub Actions |
 
 ## Case principal: PERKUS
