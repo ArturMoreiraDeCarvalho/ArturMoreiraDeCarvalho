@@ -1,6 +1,6 @@
 # Artur Moreira de Carvalho
 
-**Desenvolvedor de Software Júnior** · Backend PHP/Laravel, SQL/Oracle e Python · Sistemas financeiros e contábeis
+**Desenvolvedor de Software Júnior · Back-End** · PHP/Laravel, Oracle SQL e Python · APIs REST e automação · Sistemas financeiros e contábeis
 
 Belo Horizonte, MG · [Portfólio](https://arturmoreiradecarvalho.github.io/artur-portfolio/) · [CV (PDF)](https://arturmoreiradecarvalho.github.io/artur-portfolio/assets/cv/artur-moreira-de-carvalho-curriculo-pt-BR.pdf) · [LinkedIn](https://www.linkedin.com/in/artur-moreira-de-carvalho3336/) · [English](#in-english)
 
@@ -42,6 +42,8 @@ Projetei a arquitetura e desenvolvo, como único desenvolvedor, o Assistente de 
 ---
 
 ## In English
+
+**Back-End Developer** · PHP/Laravel, Oracle SQL & Python · REST APIs & automation · Financial and accounting systems
 
 Junior software developer at PZM Enterprise (Grupo PZM) in Belo Horizonte, Brazil. I work on the backend of a multi-tenant SaaS platform for accounting reconciliation, using PHP 8/Laravel, legacy PHP and Oracle SQL, with automated tests (PHPUnit/Pest, Cypress). I use Python for data validation, data curation and developer tooling, and I work daily with AI coding agents.
 
